@@ -19,5 +19,8 @@ The system is implemented using:
 - **Libraries**: Hugging Face Transformers, Flask (for web app), Keras, TensorFlow (for model)
 - **Deployment**: Web App and Mobile App
 
-## Installation:
-1. Clone the repository:
+## Installation
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/your-username/final-year-project.git
+   cd final-year-project
